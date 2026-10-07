@@ -14,7 +14,6 @@ Ansible role that will install, configure and runs [lighthouse](https://lighthou
 ### Supported Platforms
 ```
 * MacOS
-* Debian
 * Ubuntu
 * Redhat(CentOS/Fedora)
 * Amazon
